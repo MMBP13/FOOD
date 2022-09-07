@@ -12,7 +12,6 @@
 	<ul>
 		<li><a href="https://mmbp13.github.io/FOOD/Sandwich.html">SANDWICHES</a></li>
 		<li>COOKIES</li>
-	</ul>
-	</table>		
+	</ul>	
 </body>
 </html>
