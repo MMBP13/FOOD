@@ -1,0 +1,42 @@
+
+h1{
+	color: #FFD700; 
+	font-family: Harrington;
+	font-size: 700%;
+	display: block;
+	text-align: center;
+	background-color:#A0522D;}
+
+h2{color: #A0522D;
+	background-color:#FFD700;
+	font-family: Harrington;
+	font-weight: 900;
+	display: block;
+	text-align: center;}
+
+h3{color: #8B0000;
+	font-family: Harrington;
+	font-weight: 900;
+	display: block;
+	text-align: center;}
+
+a{	color: #A0522D;
+	font-family: Harrington;
+	display: block;
+	text-align: center;
+	background-color:#FFD700;
+	width: 200px;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;}
+
+a:hover {background-color: #A0522D;
+color: #FFD700;}
+
+span{
+	color: #8B0000;
+	font-family: Harrington;
+	font-weight: 900;
+	display: block;
+	text-align: center;}
