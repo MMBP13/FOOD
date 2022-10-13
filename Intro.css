@@ -1,12 +1,15 @@
-
-
 h1{
-	color: #A0522D; 
+	color: #FFD700; 
 	font-family: Harrington;
 	font-size: 700%;
 	display: block;
 	text-align: center;
-	background-color:#FFD700;
+	background-color: #A0522D;
+
+	 background: -moz-linear-gradient(top, #8B0000 0%, #b96666 100%);
+	background: -webkit-linear-gradient(#8B0000 0%, #b96666 100%);
+	background: -o-linear-gradient(#8B0000 0%, #b96666 100%);
+	background: linear-gradient(#8B0000 0%, #b96666 100%);
 }
 span{
 	color: #8B0000;
@@ -17,7 +20,7 @@ span{
 	
 }
 a{
-	color: #A0522D;
+	color: #8B0000;
 	font-family: Harrington;
 	display: block;
 	text-align: center;
@@ -28,7 +31,7 @@ a{
 	margin: 0 auto;
 	margin-top: 10px;
 }
-a:hover {background-color: #A0522D;
+a:hover {background-color: #8B0000;
 color: #FFD700;}
 
 
